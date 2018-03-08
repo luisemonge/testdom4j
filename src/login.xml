@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<logins>
+	<login>
+		<id>4</id>
+		<user>test1</user>
+		<pass>test1</pass>
+	</login>
+	<login>
+		<id>5</id>
+		<user>test2</user>
+		<pass>test2</pass>
+	</login>
+</logins>
